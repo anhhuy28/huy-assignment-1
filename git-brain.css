@@ -36,9 +36,10 @@ a:visited {
     
 }
 
-input[type='button'] {
+input[type='button'],
+.button2 {
     border: 0px;
-    border-radius: 12px;
+    border-radius: 15px;
     padding: 10px;
     margin-left: 5px;
     background: linear-gradient(to right, rgb(252, 175, 33), rgb(255, 120, 10));
